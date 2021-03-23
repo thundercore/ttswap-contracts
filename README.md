@@ -1,4 +1,5 @@
 # TTSwap
+TTSwap is a DEX (decentralized exchange) on the ThunderCore blockchain based on the model: Automated Market-Making (AMM) inspired by [Uniswap](https://uniswap.org/docs/v1).
 ## Information
 
 - Website [TTSwap](https://ttswap.space)
